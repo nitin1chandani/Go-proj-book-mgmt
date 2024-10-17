@@ -28,5 +28,5 @@ A simple Book Management System built with Go and MySQL. This project allows use
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/nitin1chandani/Go-proj-book-mgmt.git
   
