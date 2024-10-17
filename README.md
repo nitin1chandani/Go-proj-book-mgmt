@@ -21,7 +21,7 @@ A simple Book Management System built with Go and MySQL. This project allows use
 
 - Go (version 1.16 or later)
 - MySQL Server
-- Git
+
 
 ### Installation
 
@@ -29,4 +29,4 @@ A simple Book Management System built with Go and MySQL. This project allows use
 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+  
